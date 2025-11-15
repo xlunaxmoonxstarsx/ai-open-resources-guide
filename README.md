@@ -123,18 +123,18 @@ A seguir estão as principais APIs públicas e gratuitas oferecidas por órgãos
 
 | Órgão / API | Descrição | Link |
 |-------------|-----------|------|
-| Portal Brasileiro de Dados Abertos | Repositório oficial de dados públicos federais | https://dados.gov.br/api/3/ |
-| IBGE – SIDRA | Séries estatísticas (economia, demografia, saúde, indústria) | https://api.sidra.ibge.gov.br/values |
-| IBGE – Localidades | Municípios, estados, regiões, mapas | https://servicodados.ibge.gov.br/api/v1/ |
+| Portal Brasileiro de Dados Abertos | Repositório oficial de dados públicos federais | https://dados.gov.br/ |
+| IBGE – SIDRA | Séries estatísticas (economia, demografia, saúde, indústria) | https://sidra.ibge.gov.br/pesquisa/estimapop/tabelas |
+| IBGE – Localidades | Municípios, estados, regiões, mapas | https://servicodados.ibge.gov.br/ |
 | INEP | Dados educacionais (ENEM, IDEB, Censo Escolar) | https://inepdata.inep.gov.br/ |
 | DATASUS | Indicadores de saúde pública | https://datasus.saude.gov.br/ |
-| Receita Federal – CNPJ Aberto | Consulta pública de CNPJs | https://publica.cnpj.ws/ |
-| Banco Central – SGS | Séries temporais econômicas (câmbio, juros, inflação) | https://api.bcb.gov.br/dados/ |
+| Receita Federal – CNPJ Aberto | Consulta pública de CNPJs | https://cnpja.com/ |
+| Banco Central – SGS | Séries temporais econômicas (câmbio, juros, inflação) | https://dadosabertos.bcb.gov.br/ |
 | Banco Central – Open Finance | Padrão brasileiro de APIs financeiras | https://openfinancebrasil.org.br |
 | Senado Federal | Dados legislativos, proposições, votações | https://dadosabertos.senado.leg.br/ |
-| Câmara dos Deputados | Deputados, projetos, eventos, votações | https://dadosabertos.camara.leg.br/api/v2/ |
+| Câmara dos Deputados | Deputados, projetos, eventos, votações | https://dadosabertos.camara.leg.br/ |
 | TSE – Dados Eleitorais | Estatísticas e resultados eleitorais | https://dadosabertos.tse.jus.br/ |
-| ANEEL | Energia: geração, transmissão, concessionárias | https://dados.aneel.gov.br/api/3/ |
+| ANEEL | Energia: geração, transmissão, concessionárias | https://dadosabertos.aneel.gov.br/ |
 | ANAC | Aviação civil (aeroportos, aeronaves, voos) | https://sas.anac.gov.br/ |
 | ANATEL | Telecomunicações (banda larga, telefonia, espectro) | https://informacoes.anatel.gov.br/ |
 | ANVISA | Medicamentos, produtos, cosméticos, alimentos | https://dados.anvisa.gov.br/ |
@@ -144,16 +144,16 @@ A seguir estão as principais APIs públicas e gratuitas oferecidas por órgãos
 | Localidade | Descrição | Link |
 |------------|-----------|------|
 | Estado de São Paulo | Dados estaduais diversos | https://dados.gov.br/organization/governo-do-estado-de-sao-paulo |
-| Prefeitura de São Paulo | Mobilidade, saúde, educação, fiscalização | http://dados.prefeitura.sp.gov.br/api/3/ |
+| Prefeitura de São Paulo | Mobilidade, saúde, educação, fiscalização | https://prefeitura.sp.gov.br/web/controladoria_geral/w/coordenadoria_de_promocao_da_integridade/225082 |
 | Prefeitura do Rio de Janeiro | Dados de trânsito, clima, transporte | https://www.data.rio/ |
 | Prefeitura de Curitiba | Segurança, urbanismo, mobilidade | https://www.curitiba.pr.gov.br/dadosabertos/ |
-| Prefeitura de Belo Horizonte | Mobilidade, clima, serviços urbanos | https://dados.pbh.gov.br/api/3/ |
+| Prefeitura de Belo Horizonte | Mobilidade, clima, serviços urbanos | https://dados.pbh.gov.br/ |
 
 ## 📡 APIs Temáticas e Especializadas
 
 | Tema | Descrição | Link |
 |------|-----------|------|
-| INMET – Clima | Meteorologia e estações do país | https://apiprevmet3.inmet.gov.br/ |
+| INMET – Clima | Meteorologia e estações do país | https://portal.inmet.gov.br/ |
 | SPTrans – Olho Vivo | Linhas, horários, veículos em tempo real | https://www.sptrans.com.br/desenvolvedores/ |
 | OpenStreetMap Brasil | API de mapas e geodados | https://wiki.openstreetmap.org/wiki/API |
 | Observatório da Dengue | Indicadores e mapas de risco | https://info.dengue.mat.br/ |
